@@ -43,9 +43,9 @@ public class employee {
     public static void main(String[] args) {
 
         employee e1 = new employee();
-        employee e2 = new employee("Fira");
-        employee e3 = new employee("Fuad", "Ru1819");
-        employee e4 = new employee("Fira", "Ru3396", 4000);
+        employee e2 = new employee("Seya");
+        employee e3 = new employee("Osama", "Ru3214/13");
+        employee e4 = new employee("Seya", "Ru1644/13", 4000);
         employee e5=new employee();
         System.out.println("This is A Default constractor");
         System.out.println("employee name: " + e1.name);
